@@ -1,2 +1,6 @@
 #include<stdio.h>
 
+printf("welcome to C programming");
+
+
+
